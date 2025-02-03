@@ -31,4 +31,4 @@ O projeto está organizado nos seguintes arquivos e pastas:
 
 Você pode acessar o Gerador de Senhas através do seguinte link:
 
-<a href="https://gerador-de-senha-plum.vercel.app/" target="_blank">**Acesse o Gerador de Senhas**</a>
+[**Acesse o Gerador de Senhas**](https://gerador-de-senha-plum.vercel.app/)
