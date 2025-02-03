@@ -29,3 +29,7 @@ O projeto está organizado nos seguintes arquivos e pastas:
 - **`script.js`**: Arquivo JavaScript que implementa a lógica de geração das senhas e interações com o usuário.
 - **`assets/`**: Pasta que contém imagens, como o logo e o ícone do site.
 
+Você pode acessar o Gerador de Senhas através do seguinte link:
+
+[**Acesse o Gerador de Senhas**](https://gerador-de-senha-plum.vercel.app/)
+
